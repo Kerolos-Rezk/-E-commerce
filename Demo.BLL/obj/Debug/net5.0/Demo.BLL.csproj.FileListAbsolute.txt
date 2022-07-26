@@ -1,0 +1,75 @@
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csprojAssemblyReference.cache
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\elgen\source\repos\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csprojAssemblyReference.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session3_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csprojAssemblyReference.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session4_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csprojAssemblyReference.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Rounds\Route\C34\ASP.NET Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\full stack\back_end\core\Session5_Core\Session5_Core\App\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb

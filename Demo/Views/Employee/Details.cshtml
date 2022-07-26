@@ -1,0 +1,66 @@
+﻿@model Demo.BLL.Models.EmployeeVM
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Employee Details</h2>
+
+
+<img src="~/Files/Imgs/@Model.PhotoUrl" width="100" height="100" />
+
+<br />
+
+<a href="~/Files/Docs/@Model.CvUrl">Download Cv</a>
+
+<br />
+
+
+<label>Employee Id</label>
+<input type="text" asp-for="Id" disabled class="form-control" />
+<br />
+
+<label>Employee Name</label>
+<input type="text" asp-for="Name" disabled class="form-control" />
+<br />
+
+<label>Employee Salary</label>
+<input type="text" asp-for="Salary" disabled class="form-control" />
+<br />
+
+<label>Employee Email</label>
+<input type="text" asp-for="Email" disabled class="form-control" />
+<br />
+
+<label>Employee HireDate</label>
+<input type="text" asp-for="HireDate" disabled class="form-control" />
+<br />
+
+<label>Employee Address</label>
+<input type="text" asp-for="Address" disabled class="form-control" />
+<br />
+
+<label>Employee Notes</label>
+<textarea asp-for="Notes" disabled class="form-control"></textarea>
+<br />
+
+<div class="demo-checkbox">
+    <input type="checkbox" asp-for="IsActive" disabled checked="">
+    <label asp-for="IsActive">IsActive</label>
+    <span asp-validation-for="IsActive" class="text-danger"></span>
+</div>
+<br />
+
+<label>Department</label>
+<input type="text" asp-for="Department.DepartmentName" disabled class="form-control" />
+<br />
+
+
+<center>
+    <a asp-action="Edit" asp-controller="Employee" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Delete" asp-controller="Employee" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+    <a asp-action="Index" asp-controller="Employee" class="btn btn-success">Back To Employee</a>
+</center>
+
+
